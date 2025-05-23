@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ESPN" group-title="Fútbol",ESPN
+http://51.81.208.167:8080/live/football/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="Fútbol",Bein Sports HD
+http://163.172.213.212:8081/stream/bein1/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportFootball" group-title="Fútbol",Sky Sport Football
+http://185.105.4.126:1935/live/skyfootball/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport1" group-title="Tenis",Eurosport 1
+http://178.33.92.187:8000/live/eurosport1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel" group-title="Tenis",Tennis Channel
+http://91.132.137.18:1935/live/tennisch/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATPStream" group-title="Tenis",ATP Live Stream
+http://194.36.190.203:8000/play/tenis/stream.m3u8
+
+#EXTINF:-1 tvg-id="DAZNMotorsport" group-title="Motos",DAZN Motos
+http://212.8.249.182:8080/live/motos/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP" group-title="Motos",MotoGP Live
+http://37.187.79.93:8080/live/motogp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MotorsportTV" group-title="Motos",Motorsport TV
+http://51.15.3.12:8080/live/motorsport/playlist.m3u8
